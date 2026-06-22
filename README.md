@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeff09-oss/Jeff09-oss/main/assets/banner.png" width="100%">
-</p># Olá, eu sou Jeferson Carlos 👋
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>># Olá, eu sou Jeferson Carlos 👋
 
 ## 🚀 Sobre Mim
 
