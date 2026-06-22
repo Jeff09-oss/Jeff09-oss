@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>># Olá, eu sou Jeferson Carlos 👋
+# Olá, eu sou Jeferson Carlos 👋
 
 ## 🚀 Sobre Mim
 
