@@ -1,4 +1,6 @@
-# Olá, eu sou Jeferson Carlos 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeff09-oss/Jeff09-oss/main/assets/banner.png" width="100%">
+</p># Olá, eu sou Jeferson Carlos 👋
 
 ## 🚀 Sobre Mim
 
